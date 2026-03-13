@@ -8,4 +8,5 @@ dependencies = [
     "eventlet>=0.40.4",
     "gunicorn>=25.1.0",
     "python-socketio>=5.16.1",
+    "uvicorn[standard]>=0.41.0",
 ]
