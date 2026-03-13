@@ -1,0 +1,11 @@
+[project]
+name = "sockeio-tutorial"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "eventlet>=0.40.4",
+    "gunicorn>=25.1.0",
+    "python-socketio>=5.16.1",
+]
